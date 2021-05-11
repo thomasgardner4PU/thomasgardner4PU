@@ -1,10 +1,13 @@
-// README.md
+### Hey people, My name is Tom 👋
+
+
+## I'm an experienced IT technician!, and I've decided that its time to take up programming!
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thomasgardner4PU&theme=highcontrast&show_icons=true&count_private=true)
 
-// README.md
+## Here are my top languages!
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgardner4PU&layout=compact)
 
-### Hey people, My name is Tom 👋
+
 
 
 Here are some ideas to get you started:
