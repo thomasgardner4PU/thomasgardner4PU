@@ -1,5 +1,4 @@
-### Here's what I'm currently working on! 👋
-
+### Hey people, My name is Tom 👋
 
 
 Here are some ideas to get you started:
@@ -11,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... my contact details!
 - 📫 How to reach me: ... thomasgardner47@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I've ony been programming properly for 9 months...
+- ⚡ Fun fact: ... I started to learn programming seriousy 9 months ago
 -->
