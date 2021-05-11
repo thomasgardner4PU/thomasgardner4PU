@@ -1,3 +1,9 @@
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=thomasgardner4PU&theme=highcontrast&show_icons=true&count_private=true)
+
+// README.md
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgardner4PU&layout=compact)
+
 ### Hey people, My name is Tom 👋
 
 
