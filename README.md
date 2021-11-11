@@ -1,7 +1,7 @@
 ### Hey people, My name is Tom 👋
 
 
-## I'm an experienced IT technician!, and I've decided that its time to take up programming!
+## I'm an experienced exIT technician!, and I've decided that its time to take up programming!
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thomasgardner4PU&theme=highcontrast&show_icons=true&count_private=true)
 
 ## Here are my top languages!
