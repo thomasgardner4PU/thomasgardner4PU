@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on ... Designing a Meditation Web Application
-- 🌱 I’m currently learning ... Javascript, JQuery and TypeScript
+- 🌱 I’m currently learning ... Javascript, Typescript and VueJS
 - 👯 I’m looking to collaborate on ... web development projects
 - 🤔 I’m looking for help with ... Programming In general
 - 💬 Ask me about ... my contact details!
