@@ -1,9 +1,8 @@
-### Hey people, My name is Tom 👋
+# Welcome to my profile 👋
 
+## feel free to take a look around!
 
-## I'm an experienced IT technician/Analyst, with the hopes of becoming a web developer!
-
-### I've decided that its time I learn a new skillset in programming, check out my top languages below!
+### I'd recently undertaken a degree in Software development after leaving my job as an IT Technician, and I think its time to show off my knowledge!
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgardner4PU&layout=compact)
 
 ### What I've been upto this year
