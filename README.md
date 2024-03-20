@@ -1,8 +1,8 @@
-# Hello and Welcome to my profile 👋
+# Welcome to my profile 👋
 
 ## Please feel free to take a look around!
 
-### I'd recently undertaken a degree in Software development after leaving my job as an IT Technician, and I think its time to show off my knowledge!
+# # # I've recently undertaken a degree in Software development after leaving my job as an IT Technician, and it's time to show off my knowledge!
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgardner4PU&layout=compact)
 
 ### What I've been upto this year
