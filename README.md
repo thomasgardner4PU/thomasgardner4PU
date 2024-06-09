@@ -2,10 +2,10 @@
 
 ## Please feel free to take a look around!
 
-# # # I've recently undertaken a degree in Software development after leaving my job as an IT Technician, and it's time to show off my knowledge!
+## I've recently undertaken a degree in Software development after leaving my job as an IT Technician, and it's time to show off my knowledge!
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasgardner4PU&layout=compact)
 
-### What I've been working on this year
+## What I've been working on this year
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thomasgardner4PU&theme=highcontrast&show_icons=true&count_private=true)
 
 
